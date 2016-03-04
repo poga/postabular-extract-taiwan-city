@@ -1,0 +1,17 @@
+{
+  "name": "postabular-extract-taiwan-city",
+  "version": "1.0.0",
+  "description": "extract taiwan city name from column",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postabular-plugin"
+  ],
+  "author": "Poga Po",
+  "license": "MIT",
+  "dependencies": {
+    "postabular": "0.0.8"
+  }
+}
